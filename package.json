@@ -1,0 +1,23 @@
+{
+  "name": "jsdaythree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myscript.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chouavue/JSdaythree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chouavue/JSdaythree/issues"
+  },
+  "homepage": "https://github.com/Chouavue/JSdaythree#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
